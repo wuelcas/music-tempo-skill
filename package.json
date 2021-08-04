@@ -19,7 +19,7 @@
     "spotify-web-api-node": "^2.5.0",
     "voxa": "^3.2.1",
     "voxa-ga": "2.0.1",
-    "tar": ">=4.4.2",
+    "tar": ">=4.4.15",
     "superagent": ">=3.7.0"
   },
   "devDependencies": {
