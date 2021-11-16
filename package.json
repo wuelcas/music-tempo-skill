@@ -12,7 +12,7 @@
   "dependencies": {
     "@types/aws-sdk": "^2.7.0",
     "@types/lambda-log": "^2.2.0",
-    "aws-sdk": "^2.458.0",
+    "aws-sdk": "^2.814.0",
     "lambda-log": "^2.0.0",
     "lodash": "^4.17.13",
     "source-map-support": "^0.5.12",
