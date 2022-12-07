@@ -27,7 +27,7 @@
     "@types/mocha": "^5.2.5",
     "@types/simple-mock": "^0.8.0",
     "alexa-mime": "^0.0.6",
-    "ask-cli": "1.4.4",
+    "ask-cli": "2.28.0",
     "chai": "^4.2.0",
     "fs-extra": "^7.0.1",
     "mocha": "^5.2.0",
